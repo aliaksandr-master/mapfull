@@ -1,0 +1,23 @@
+{
+  "generator-node-lib": {
+    "version": "0.1.0",
+    "travis": true,
+    "coveralls": true,
+    "testEngine": "nodeunit",
+    "license": "MIT",
+    "indentType": "tab",
+    "indentSize": 4,
+    "app": {
+      "name": "routefull",
+      "varName": "routefull",
+      "coverageEnvName": "NODE_LIB_ROUTEFULL_COVERAGE"
+    },
+    "repository": {
+      "raw": "git@github.com:aliaksandr-pasynkau/routefull.git",
+      "url": "git@github.com:aliaksandr-pasynkau/routefull",
+      "host": "github.com",
+      "user": "aliaksandr-pasynkau",
+      "name": "routefull.gi"
+    }
+  }
+}
