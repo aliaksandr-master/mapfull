@@ -1,9 +1,9 @@
 [![npm](http://img.shields.io/npm/v/mapfull.svg?style=flat-square)](https://www.npmjs.com/package/mapfull)
 ![npm](http://img.shields.io/npm/l/mapfull.svg?style=flat-square)
-[![Dependency Status](https://david-dm.org/aliaksandr-pasynkau/mapfull.gi.svg?style=flat-square)](https://david-dm.org/aliaksandr-pasynkau/mapfull.gi)
-[![devDependency Status](https://david-dm.org/aliaksandr-pasynkau/mapfull.gi/dev-status.svg?style=flat-square)](https://david-dm.org/aliaksandr-pasynkau/mapfull.gi#info=devDependencies)
-[![Build Status](https://travis-ci.org/aliaksandr-pasynkau/mapfull.gi.svg?branch=master&style=flat-square)](https://travis-ci.org/aliaksandr-pasynkau/mapfull.gi)
-[![Coverage Status](https://img.shields.io/coveralls/aliaksandr-pasynkau/mapfull.gi.svg?style=flat-square)](https://coveralls.io/r/aliaksandr-pasynkau/mapfull.gi?branch=master)
+[![Dependency Status](https://david-dm.org/aliaksandr-pasynkau/mapfull.svg?style=flat-square)](https://david-dm.org/aliaksandr-pasynkau/mapfull)
+[![devDependency Status](https://david-dm.org/aliaksandr-pasynkau/mapfull/dev-status.svg?style=flat-square)](https://david-dm.org/aliaksandr-pasynkau/mapfull#info=devDependencies)
+[![Build Status](https://travis-ci.org/aliaksandr-pasynkau/mapfull.svg?branch=master&style=flat-square)](https://travis-ci.org/aliaksandr-pasynkau/mapfull)
+[![Coverage Status](https://img.shields.io/coveralls/aliaksandr-pasynkau/mapfull.svg?style=flat-square)](https://coveralls.io/r/aliaksandr-pasynkau/mapfull?branch=master)
 
 # mapfull
 Powerfull nodeJs library
@@ -26,7 +26,7 @@ mapfull = require('mapfull');
 
 
 ## Support
-If you have any problems, you cached a bug, or you have any suggestion - please [find an existing issue or create new](https://github.com/aliaksandr-pasynkau/mapfull.gi/issues)
+If you have any problems, you cached a bug, or you have any suggestion - please [find an existing issue or create new](https://github.com/aliaksandr-pasynkau/mapfull/issues)
 
 
 ## Contributing
