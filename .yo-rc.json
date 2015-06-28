@@ -1,6 +1,6 @@
 {
   "generator-node-lib": {
-    "version": "0.1.0",
+    "version": "1.0.0",
     "travis": true,
     "coveralls": true,
     "testEngine": "nodeunit",
@@ -8,16 +8,16 @@
     "indentType": "tab",
     "indentSize": 4,
     "app": {
-      "name": "routefull",
-      "varName": "routefull",
-      "coverageEnvName": "NODE_LIB_ROUTEFULL_COVERAGE"
+      "name": "mapfull",
+      "varName": "mapfull",
+      "coverageEnvName": "NODE_LIB_MAPFULL_COVERAGE"
     },
     "repository": {
-      "raw": "git@github.com:aliaksandr-pasynkau/routefull.git",
-      "url": "git@github.com:aliaksandr-pasynkau/routefull",
+      "raw": "https://github.com/aliaksandr-pasynkau/mapfull.git",
+      "url": "https://github.com/aliaksandr-pasynkau/mapfull",
       "host": "github.com",
       "user": "aliaksandr-pasynkau",
-      "name": "routefull.gi"
+      "name": "mapfull.gi"
     }
   }
 }

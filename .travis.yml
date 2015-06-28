@@ -1,9 +1,19 @@
 language: node_js
 node_js:
   - "stable"
-  - "iojs"
   - "unstable"
-script: "npm run coveralls"
+  - "iojs"
+before_script:
+  - npm i jscoverage coveralls grunt-cli
+#  
+  - npm i nodeunit
+#  
+script: "./node_modules/.bin/grunt test"
+after_script:
+  - ./node_modules/.bin/jscoverage lib
+#  
+  - NODE_LIB_MAPFULL_COVERAGE=1 ./node_modules/.bin/nodeunit --reporter=lcov tests/ | ./node_modules/.bin/coveralls
+#  
 notifications:
   email:
     on_success: never

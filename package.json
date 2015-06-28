@@ -1,6 +1,6 @@
 {
-  "name": "routefull",
-  "version": "0.1.0",
+  "name": "mapfull",
+  "version": "1.0.0",
   "main": "lib/index.js",
   "scripts": {
     "test": "grunt test"
@@ -8,26 +8,26 @@
   "description": "",
   "keywords": [],
   "license": "MIT",
+  "dependencies": {},
+
   "author": "aliaksandr-pasynkau",
   "repository": {
     "type": "git",
-    "url": "http://github.com/aliaksandr-pasynkau/routefull.git"
+    "url": "https://github.com/aliaksandr-pasynkau/mapfull.git"
   },
   "bugs": {
-    "url": "http://github.com/aliaksandr-pasynkau/routefull/issues"
+    "url": "https://github.com/aliaksandr-pasynkau/mapfull/issues"
   },
-  "homepage": "http://github.com/aliaksandr-pasynkau/routefull",
-  "dependencies": {},
+  "homepage": "https://github.com/aliaksandr-pasynkau/mapfull",
+
   "devDependencies": {
-    "coveralls": "^2.11.2",
-    "grunt": "^0.4.5",
-    "grunt-cli": "^0.1.13",
-    "grunt-contrib-jshint": "^0.11.2",
+    
     "grunt-contrib-nodeunit": "^0.4.1",
+    
+    "grunt": "^0.4.5",
+    "grunt-eslint": "^15.0.0",
     "grunt-contrib-watch": "^0.6.1",
     "grunt-newer": "^1.1.1",
-    "grunto": "^1.4.2",
-    "jscoverage": "^0.5.9",
-    "nodeunit": "^0.9.1"
+    "grunto": "^1.4.2"
   }
 }
