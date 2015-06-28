@@ -33,6 +33,7 @@ module.exports = grunto(function (grunt) {
 		watch: {
 			files: [
 				'lib/**/*',
+				'**/*.js',
 				'!node_modules/**/*',
 				'!lib-cov/**/*'
 			],
